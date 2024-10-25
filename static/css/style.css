@@ -1,0 +1,15 @@
+.btn-clr{
+    text-decoration: none;
+    color: rgb(234, 234, 238);
+    background: blue;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.clg-name{
+    color:rgb(255, 255, 255)
+}
+
+html{
+    background-color: orange;
+}
